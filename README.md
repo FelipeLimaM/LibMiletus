@@ -1,5 +1,7 @@
 
 # LibMiletus
+
+[![Join the chat at https://gitter.im/FelipeLimaM/LibMiletus](https://badges.gitter.im/FelipeLimaM/LibMiletus.svg)](https://gitter.im/FelipeLimaM/LibMiletus?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Welcome to libMiletus repository!
 
 ## Architecture overview
