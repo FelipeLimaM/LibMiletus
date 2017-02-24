@@ -3,3 +3,5 @@ description: Miletus (Motorola & Unicamp) Library for IoT Initiatives
 show_downloads: true
 google_analytics: UA-92508767-1
 theme:
+
+theme: jekyll-theme-cayman
